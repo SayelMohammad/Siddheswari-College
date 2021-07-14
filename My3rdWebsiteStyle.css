@@ -1,0 +1,37 @@
+/*Selector{
+	Property: value;
+}
+*/
+
+body{
+	background-image: url(452.jpg);
+	background-size: cover; 
+	background-attachment: fixed;
+	cursor: pointer;
+}
+	
+h1 {
+	color: #0B071F ;
+	text-align: center;
+	background-color: #B8D4E2 ;
+	border: 5px solid #70CCFE ;
+	
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+img{background-attachment: center;
+	position:center;
+	width: 1400px;
+	height: 560px
+}
+		footer{
+	background-color: #008268;
+	text-align: center;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
